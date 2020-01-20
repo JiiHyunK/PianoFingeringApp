@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="levels">
+        <item>Level 1</item>
+        <item>Level 2</item>
+        <item>Level 3</item>
+        <item>Level 4</item>
+        <item>Level 5</item>
+    </string-array>
+    <string-array name="level_1">
+        <item>학교종이 땡땡땡</item>
+        <item>나비야</item>
+        <item>비창 2악장</item>
+    </string-array>
+    <string-array name="level_2">
+    </string-array>
+    <string-array name="level_3">
+    </string-array>
+    <string-array name="level_4">
+        <item>악흥의 순간</item>
+        <item>Reminiscence</item>
+    </string-array>
+    <string-array name="level_5">
+        <item>헝가리 무곡</item>
+        <item>Flower Dance</item>
+    </string-array>
+</resources>

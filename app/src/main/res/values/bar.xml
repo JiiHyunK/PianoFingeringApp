@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bar">
+        <item>전체재생</item>
+        <item>part1</item>
+        <item>part2</item>
+        <item>part3</item>
+        <item>part4</item>
+        <item>part5</item>
+        <item>part6</item>
+    </string-array>
+
+</resources>
